@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+cd<?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
         <firstname>Jakub</firstname>
@@ -159,6 +159,13 @@
         <lastname>Chlebda</lastname>
         <email>chlebdaaga@gmail.com</email>
         <github>agnesch</github>
+        <group>KrDzIs3011Si</group>
+    </student>
+    <student>
+        <firstname>Jakub</firstname>
+        <lastname>Kucia</lastname>
+        <email>jbkucia@gmail.com</email>
+        <github>jakubowskii</github>
         <group>KrDzIs3011Si</group>
     </student>
 </students>
